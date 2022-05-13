@@ -1,0 +1,15 @@
+.icon-size {
+    font-size: 25px;
+}
+/*Colores Fondo Iconos y Body Tarjetas */
+.k-bg-aqua {
+    background-color: #13DCE2;
+}
+/*Color de fondo*/
+.k-bg-black {
+    background-color: black;
+}
+/* Google Font */
+.k-gf-lato {
+    font-family: 'Lato', sans-serif;
+}
